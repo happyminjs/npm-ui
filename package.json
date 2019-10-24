@@ -1,0 +1,22 @@
+{
+  "name": "npm-ui",
+  "version": "1.0.0",
+  "description": "a npm ui test",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/happyminjs/npm-ui.git"
+  },
+  "keywords": [
+    "uitest"
+  ],
+  "author": "yangmin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/happyminjs/npm-ui/issues"
+  },
+  "homepage": "https://github.com/happyminjs/npm-ui#readme"
+}
